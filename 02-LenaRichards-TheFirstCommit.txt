@@ -1,0 +1,17 @@
+# Lena Richards -- The First Commit
+* My program broke. Again: ***MY PROGRAM BROKE*** :sob:
+- [x] steal The first Noel
+
+*Verse 1*
+The First Commit 
+The programs did die
+And the Markup just broke down
+In tears as it lied
+
+*Verse 2*
+In tears as it lied
+In the proken compile
+And the API
+Committed suicide
+
+*This song is for all my APIs that send 503 (Service Unavailable: Back-end server is at capacity)*
